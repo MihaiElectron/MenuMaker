@@ -1,5 +1,7 @@
 # Projet 11 – Concevez une application de menu pour restaurateurs
 
+![MenuMaker](docs/menumaker-ss.png)
+
 ## Contexte
 
 Ce projet a été réalisé dans le cadre du parcours **Intégrateur Web OpenClassrooms**.
